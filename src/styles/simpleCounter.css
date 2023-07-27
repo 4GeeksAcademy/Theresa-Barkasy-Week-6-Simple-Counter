@@ -1,0 +1,29 @@
+html, body {
+    height:100%;
+    background-color: #fdffcd;
+}
+
+.counterDisplay {
+    text-align: center;
+    margin: 100px auto;
+}
+
+.counterDisplay div {
+    display: inline-block;
+    background-color: #ffebbb;
+    color: white;
+    font-size: 100px;
+    width: 90px;
+    border-radius: 7px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.bi-stopwatch {
+    background-color: rgba(0,0,0,0);
+    color: white;
+    width: 100px;
+    height: 80px;
+    padding-bottom: 20px;
+}
